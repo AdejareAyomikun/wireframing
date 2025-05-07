@@ -36,4 +36,21 @@ Wireframing plays a crucial role in software development by providing a visual g
 - **Improves Requirement Validation**: Helps verify if requirements are met visually and functionally.
 - **Supports Agile Workflows**: Adapts easily alongside evolving requirements in iterative development.
 
-Wireframes ultimately align the team, reduce misunderstandings, and lead to more effective and user-focused software.
+## Real-World Example: How Wireframing Helped
+
+A small team was building a fitness app to let users book workout classes. They made a wireframe using Figma to plan the app’s layout before coding.
+
+### What Went Wrong
+- The "Book Now" button was hard to find.
+- There was no message to confirm a successful booking.
+
+### How They Fixed It
+- They moved the "Book Now" button to the top where users could easily see it.
+- They added a simple confirmation screen after booking.
+
+### The Result
+- Users found the app easier to use.
+- The team didn’t need to redo work later, saving time and effort.
+
+### Conclusion
+Wireframing helped the team spot problems early. It made the app better for users and made the development process smoother.
